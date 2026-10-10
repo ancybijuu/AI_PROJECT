@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/
+.idea/
+.pytest_cache/
+*.pt
+tracked_output.jpg
+input.mp4
+output.mp4
